@@ -1,0 +1,12 @@
+# no files in environemtn dim_viz 
+# dimension visualizer
+dim_viz/
+# dimension visualizer cache
+dim_viz_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
