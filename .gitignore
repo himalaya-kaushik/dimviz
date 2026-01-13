@@ -10,3 +10,17 @@ __pycache__/
 .Python
 env/
 build/
+# Python garbage
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environments
+venv/
+env/
+.env
