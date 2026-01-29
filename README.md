@@ -171,7 +171,7 @@ diff = compare_logs(viz1.get_log(), viz2.get_log(), "v1", "v2")
 print(diff)
 ```
 
-## 🎯 Use Cases
+##  Use Cases
 
 ### 1. Debugging Shape Mismatches
 
@@ -312,7 +312,7 @@ DimViz uses PyTorch's `TorchDispatchMode` for minimal overhead:
 
 For production code, use `verbose=False` or `filter_ops` to minimize impact.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -336,7 +336,7 @@ pytest tests/ --cov=dimviz --cov-report=html
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built on PyTorch's `TorchDispatchMode` API
 - Visualization powered by [Rich](https://github.com/Textualize/rich) (optional)
@@ -344,8 +344,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@himalaya-kaushik](https://github.com/yourusername)
+- Email: himalaya341@gmail.com
 
 ---
 
