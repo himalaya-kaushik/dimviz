@@ -24,12 +24,6 @@ Stop guessing tensor shapes—see them flow through your model in real-time! Dim
 pip install dimviz
 ```
 
-For enhanced visualization with colors and styling:
-
-```bash
-pip install dimviz[rich]
-```
-
 ## 📖 Quick Start
 
 ### Basic Usage
